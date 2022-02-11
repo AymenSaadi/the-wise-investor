@@ -133,7 +133,7 @@ Read more: How Much Space Do You Need For Photo Studio?
       {
         image:"https://www.autotrainingcentre.com/wp-content/uploads/2015/09/Top-5-Most-Common-Repairs-Youll-Encounter-in-an-Auto-Repair-Career.jpg",
         title:"Auto repair ",
-        budget :1200,
+        budget :10000,
        field :"Mecanichal",
         tutorial:`Start a car repair shop by following these 10 steps:
         Plan your Car Repair Shop
@@ -272,7 +272,7 @@ Read more: How Much Space Do You Need For Photo Studio?
       {
         image:"https://www.california-gym.com/wp-content/uploads/2020/02/cun2.png",
         title:"GYM",
-        budget :3000,
+        budget :30000,
        field :"Sport",
         tutorial:`Step 1: Find the Right Space
         Before you can start swinging kettlebells and performing burpees, you need to decide where you want to set up your home gym. At the very least, the space should have enough room for a yoga mat, which is all the space you'll need to stretch and do core exercises. From there, the exact space for your home gym will depend on how much room you have and the workouts you want to accomplish. A HIIT workout might need more space and a solid (but not-too-hard) surface to jump around on, while a yoga or Pilates workout needs a little more space than a yoga mat. A heavy lifting regimen featuring all the bells and whistles will likely require a whole room of its own.
@@ -297,7 +297,7 @@ Read more: How Much Space Do You Need For Photo Studio?
       {
         image:"https://royalsportshop.com/wp-content/uploads/2019/07/IMG_20190730_100726-1030x773.jpg",
         title:"Shop of sport materials",
-        budget :3000,
+        budget :10000,
        field :"Sport",
         tutorial:`Start a sporting goods store by following these 10 steps:
         Plan your Sporting Goods Store
@@ -441,7 +441,7 @@ Read more: How Much Space Do You Need For Photo Studio?
       {
         image:"https://boscolocollection.com/lyon/wp-content/uploads/2018/04/Spa-Piscine-Boscolo-Lyon-8.jpg",
         title:"SPA",
-        budget :2500,
+        budget :25000,
        field :"Beauty and health",
         tutorial:`Write a business plan
         It’s really important to write a business plan. If your day spa is going to be a journey, think of this part as starting the GPS. It’ll guide you to your destination and help organize your plans and priorities.
@@ -658,7 +658,7 @@ Read more: How Much Space Do You Need For Photo Studio?
        },{
         image:"https://cdn1.treatwell.net/images/view/v2.i2490813.w720.h480.x369934FD/",
         title:"Beauty salon",
-        budget :2500,
+        budget :25000,
        field :"Beauty and health",
         tutorial:`Start a beauty salon by following these 10 steps:
         Plan your Beauty Salon
@@ -726,7 +726,7 @@ Read more: How Much Space Do You Need For Photo Studio?
       {
         image:"https://farm5.staticflickr.com/4662/39872409124_8de7393659_b.jpg",
         title:"Coffe shop",
-        budget :1500,
+        budget :15000,
        field :"Entertainment",
         tutorial:`How to start a coffee shop step-by-step
         To get you started, we've created a quick step-by-step guide to setting up your own coffee shop. Read on for more details on each step.
@@ -788,7 +788,7 @@ Read more: How Much Space Do You Need For Photo Studio?
       {
         image:"https://fastly.4sqi.net/img/general/width960/65863384_lmUJEFnbxuw4RLB-_BH3wdLshE3qq-F7EP99D_VpeZg.jpg",
         title:"Night club",
-        budget :2500,
+        budget :25000,
        field :"Entertainment",
         tutorial:`STEP 1: Plan your business
         A clear plan is essential for success as an entrepreneur. It will help you map out the specifics of your business and discover some unknowns. A few important topics to consider are:
@@ -874,7 +874,7 @@ Read more: How Much Space Do You Need For Photo Studio?
       {
         image:"https://fa42cf2086b5b4ffa910-42905546d373f150b1b6e131d3710cf2.ssl.cf3.rackcdn.com/business-plan-bar.jpg",
         title:"Bar",
-        budget :2500,
+        budget :25000,
        field :"Entertainment",
         tutorial:`1. Write Your Bar's Business Plan
         A failure to plan is a plan to fail.
