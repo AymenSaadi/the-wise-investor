@@ -4,7 +4,7 @@ node_modules
 package-lock.json
 
 # local env files
-package-lock²   ²                                                                                                                       
+package-lock.json
 .env.local
 .env.*.local
 package-lock.json

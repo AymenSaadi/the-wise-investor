@@ -1287,47 +1287,7 @@ Read more: How Much Space Do You Need For Photo Studio?
         Web domain availability`
    
        },
-       {
-        image:"https://procrew.b-cdn.net/wp-content/uploads/2020/06/plumber-at-work-in-a-bathroom-1024x683-1-768x512.jpg",
-        title:"Plumbing",
-        budget :700,
-       field :"Handyman",
-        tutorial:`Steps to Start a Plumbing Business
-        If you’re looking to start your own business as a plumber, here are some of the steps you can take to get started.
-        
-        Get Certified
-        Plumbing requires you to have a strong foundation in math, science, and tech. However, you don’t need college degree — a high school diploma or GED will suffice to get you into a trade school or certification program. These vocational training programs help you gain the necessary skills and stand out to consumers as a trustworthy professional.
-        
-        Serve as an Apprentice
-        Many certification programs or trade schools will also help you connect with professional plumbers who you can work with as an apprentice. This allows you to gain on-the-job training so you can hone your skills in a real world setting.
-        
-        Choose a Specialty
-        Of course, there are plumbers who offer a variety of services. But as you train and work as an apprentice, you should consider which tasks you’re best suited for and what types of jobs you enjoy working on. You could serve as a residential plumber that fixes leaky pipes or clogged drains. Or you could perform sewer line inspections, complete large scale projects for home renovations, or work mainly with commercial clients.
-        
-        Invest in Equipment
-        Depending on what specialty you opt for, you may be able to start a plumbing business fairly inexpensively. You’ll need pipes, fittings, and a variety of basic tools. The main expense is likely to be a van or truck that you can take to jobs and use to transport all of your professional equipment.
-        
-        
-        Register Your Business
-        To get your business officially up and running, you need to comply with state and local laws for operating such a business. Each state has different licenses, permits, and requirements, so check with your Secretary of State or licensing board to obtain and file the necessary paperwork.
-        
-        Create a Service Agreement and Pricing Formula
-        Before you actually start working with customers, you should have a selection of services all with set prices, or at least a formula you can use to determine the cost of each job based on labor and supplies. You should also have contracts or agreement templates created to ensure a consistent experience.
-        
-        Keith Glass of The Plumbers Coach writes, “Consistency in pricing means a lot to your business. Neighbors do talk with one another and they will compare what they paid. It needs to be consistent or they will be a thorn in your side with bad online reviews and constant complaints.”
-        
-        Set Up an Office
-        Admin tasks are also important when starting a plumbing business. You need a place where you can field phone calls from clients, keep important documents and run your marketing campaigns. At first, you may be able to save money by simply working out of a home office.
-        
-        
-        Patricia Bonacorda of Spartan Plumbing, Heating and Air Conditioning shared on the Grow Plumbing blog, “If you want to keep expenses as low as possible at the beginning, consider a home office where you can set up a telephone, desk and filing cabinet. Or, rent a small space where you can take care of paperwork if you’re not comfortable working out of the house.”
-        
-        Start an Online Presence
-        Most businesses understand the importance of creating a website and some social media accounts. These are important for plumbing companies as well. But for local service businesses, it’s equally important to focus on review sites like Yelp, HomeAdvisor and Angie’s List.
-        
-        `
-   
-       },
+       
        {
         image:"https://www.thefarmliving.com/wp-content/uploads/Inspecting-Poultry-Farm.jpg",
         title:"Poultry Farming",

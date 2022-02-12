@@ -8,8 +8,8 @@ export default {
   },
   data() {
     return {
-        name : "InitialProject",
-      projects :[]
+    name : "InitialProject",
+    projects :[]
     }
   },
 
