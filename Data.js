@@ -1496,7 +1496,7 @@ Read more: How Much Space Do You Need For Photo Studio?
        }
 ]
 
-var insert =()=> {
-  Pr.insertMany(project)
-}
-insert()
+// var insert =()=> {
+//   Pr.insertMany(project)
+// }
+// insert()
